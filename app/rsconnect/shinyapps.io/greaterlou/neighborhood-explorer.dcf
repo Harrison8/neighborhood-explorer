@@ -1,0 +1,12 @@
+name: neighborhood-explorer
+title: neighborhood-explorer
+username:
+account: greaterlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3325456
+bundleId: 4242490
+url: https://greaterlou.shinyapps.io/neighborhood-explorer/
+when: 1613681198.87987
+asMultiple: FALSE
+asStatic: FALSE
